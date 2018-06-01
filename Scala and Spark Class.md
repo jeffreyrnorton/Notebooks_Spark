@@ -86,6 +86,8 @@ Scala 101 - [Free set of short video lectures](https://cognitiveclass.ai/courses
 
 [High Performance Spark - Effective Transformations](https://musings-on-ai.s3.amazonaws.com/Spark/highperformancespark.pdf#page=101)
 
+[Mastering Apache Spark](https://legacy.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
+
 ## Key-Value Pairs and Joins
 
 ### Slides
@@ -151,7 +153,7 @@ Scala 101 - [Free set of short video lectures](https://cognitiveclass.ai/courses
 [Datasets](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-4-5.pdf)
 
 ### Videos
-
+)
 [Structured vs Unstructured Data](https://www.youtube.com/watch?v=i-oi5OzCLJI)
 
 [Spark SQL](https://www.youtube.com/watch?v=OWCzZQMO68g)
@@ -165,6 +167,8 @@ Scala 101 - [Free set of short video lectures](https://cognitiveclass.ai/courses
 ### Book References
 
 [High Performance Spark - DataFrames, Datasets, and Spark SQL](https://musings-on-ai.s3.amazonaws.com/Spark/highperformancespark.pdf#page=43)
+
+[Master Spark SQL](https://legacy.gitbook.com/book/jaceklaskowski/mastering-spark-sql/details)
 
 ## Other Big Data Tools, Intro to Stream Processing
 
@@ -242,11 +246,15 @@ Scala 101 - [Free set of short video lectures](https://cognitiveclass.ai/courses
 
 ### Online and Book Resources
 
+[Advanced Analytics with Spark](http://musings-on-ai.s3.amazonaws.com/Spark/Advanced-Analytics-with%20Spark.pdf)
+
 [Introduction to Machine Learning with Spark and MLlib (DataFrame API)](https://blog.scalac.io/scala-spark-ml.html)
 
 [Machine Learning Library (MLlib) Programming Guide](http://spark.apache.org/docs/1.2.1/mllib-guide.html)
 
 [Mastering Machine Learning with Spark 2.x](http://musings-on-ai.s3.amazonaws.com/Spark/mastering_machine_learning_with_spark_2x.pdf)
+
+[Spark MLLib](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/content/spark-mllib/spark-mllib.html)
 
 [Tutorial. Hortonworks. Intro to Machine Learning with Apache Spark and Apache Zeppelin](https://hortonworks.com/tutorial/intro-to-machine-learning-with-apache-spark-and-apache-zeppelin/)
 
