@@ -29,6 +29,16 @@
 | [Lecture 2.5 - Functions and Data](https://www.youtube.com/watch?v=ASNudJQPO28&list=PLO9y7hOkmmSFAxC3SJi0c5UHSotBVHyar&index=5) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week3-1.pdf) |
 | [Lecture 2.6 - More Fun With Rationals](https://www.youtube.com/watch?v=mSRgSbOx8Ns&list=PLO9y7hOkmmSFAxC3SJi0c5UHSotBVHyar&index=6) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week3-2.pdf) |
 | [Lecture 2.7 - Evaluation and Operators](https://www.youtube.com/watch?v=Aai5f5RBq98&list=PLO9y7hOkmmSFAxC3SJi0c5UHSotBVHyar&index=7) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week3-3.pdf) |
+| [Lecture 3.1 - Class Hierarchies](https://www.youtube.com/watch?v=jX7Kw1Yb_q8&list=PLO9y7hOkmmSH5LnOb4ZtsvvCl1HDI2D-v) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week3-4.pdf) |
+| [Lecture 3.2 - How Classes Are Organized](https://www.youtube.com/watch?v=JjiToRSK9mE&list=PLO9y7hOkmmSH5LnOb4ZtsvvCl1HDI2D-v&index=2) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week3-5.pdf) |
+| [Lecture 3.3 - Polymorphism](https://www.youtube.com/watch?v=3aTe-6De0Pg&list=PLO9y7hOkmmSH5LnOb4ZtsvvCl1HDI2D-v&index=3) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week4-1.pdf) |
+| [Lecture 4.1 - Objects Everywhere](https://www.youtube.com/watch?v=Uu9BaV6sKPQ&index=2&list=PLO9y7hOkmmSEmDcxBXvIDp-1b5EIC5Ed5) | [Slides]() |
+| [Lecture 4.2 - Functions as Objects](https://www.youtube.com/watch?v=LV000GXzRks&list=PLO9y7hOkmmSEmDcxBXvIDp-1b5EIC5Ed5) | [Slides]() |
+| [Lecture 4.3 - Subtyping and Generics](https://www.youtube.com/watch?v=hgQqr-pA-c4&index=3&list=PLO9y7hOkmmSEmDcxBXvIDp-1b5EIC5Ed5) | [Slides]() |
+| [Lecture 4.4 - Variance (Optional)](https://www.youtube.com/watch?v=pgCD10nu_30&index=4&list=PLO9y7hOkmmSEmDcxBXvIDp-1b5EIC5Ed5) | [Slides]() |
+| [Lecture 4.5 - Decomposition](https://www.youtube.com/watch?v=L3JTggvJZt4&index=5&list=PLO9y7hOkmmSEmDcxBXvIDp-1b5EIC5Ed5) | [Slides]() |
+| [Lecture 4.6 - Pattern Matching](https://www.youtube.com/watch?v=S60PiAw-Tg4&index=6&list=PLO9y7hOkmmSEmDcxBXvIDp-1b5EIC5Ed5) | [Slides]() |
+| [Lecture 4.7 - Lists](https://www.youtube.com/watch?v=6SMuO28__mQ&index=7&list=PLO9y7hOkmmSEmDcxBXvIDp-1b5EIC5Ed5) | [Slides]() |
 
 # Scala and Spark Class
 
