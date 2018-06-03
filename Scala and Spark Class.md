@@ -1,3 +1,13 @@
+# Select Scala References
+
+[An Eclipse Tutorial](http://scala-ide.org/docs/tutorials/index.html) 
+[How to configure SBT to work with Eclipse](https://alvinalexander.com/scala/sbt-how-to-configure-work-with-eclipse-projects)
+[Structure and Interpretation of Computer Programs (2nd Edition) Harold Abelson and Gerald Jay Sussman with Julie Sussman ](http://web.mit.edu/alexmv/6.037/sicp.pdf)  
+[Programming in Scala (2nd Edition) Martin Odersky, Lex Spoon and Bill Venners](http://ccfit.nsu.ru/~den/Scala/programming_in_scala_2nd.pdf)
+[Scala Cookbook, Alvin Alexander](http://musings-on-ai.s3.amazonaws.com/Spark/scalacookbook.pdf)
+[Programming Scala, Dean Wampler & Alex Payne](http://musings-on-ai.s3.amazonaws.com/Spark/programmingscala.pdf)
+[Learning Scala, Jason Swartz](http://musings-on-ai.s3.amazonaws.com/Spark/learningscala.pdf)
+
 # Functional Programming Principles in Scala
 
 | Video | Slides |
@@ -11,19 +21,14 @@
 | [Lecture 1.4 - Conditionals and Value Definitions](https://www.youtube.com/watch?v=su1nR4op46I&index=4&list=PLO9y7hOkmmSEAtkvo_lQdIK8SfhO6x78Q) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week1-4.pdf) |
 | [Lecture 1.5 - Example: square roots with Newton's method](https://www.youtube.com/watch?v=FM4I8hU5kqk&index=5&list=PLO9y7hOkmmSEAtkvo_lQdIK8SfhO6x78Q) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week1-5.pdf) |
 | [Lecture 1.6 - Blocks and Lexical Scope](https://www.youtube.com/watch?v=RlefE2isw9s&list=PLO9y7hOkmmSEAtkvo_lQdIK8SfhO6x78Q&index=6) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week1-6.pdf) |
-| [Lecture 1.7 - Tail Recursion](https://www.youtube.com/watch?v=xhT6c9dM1Ds&index=7&list=PLO9y7hOkmmSEAtkvo_lQdIK8SfhO6x78Q) |   |
-
-8 readings
-Tools Setup (Please read)10m
-Cheat Sheet10m
-IntelliJ IDEA Tutorial10m
-Eclipse Tutorial10m
-SBT tutorial and Submission of Assignments (Please read)10m
-Learning Resources10m
-Scala Tutorial10m
-Scala Style Guide10m
-1 practice exercises
-Learning check-in2m
+| [Lecture 1.7 - Tail Recursion](https://www.youtube.com/watch?v=xhT6c9dM1Ds&index=7&list=PLO9y7hOkmmSEAtkvo_lQdIK8SfhO6x78Q) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week2-1.pdf)  |
+| [Lecture 2.1 - Higher-Order Functions](https://www.youtube.com/watch?v=fhbA1ZDtPiA&list=PLO9y7hOkmmSFAxC3SJi0c5UHSotBVHyar) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week2-2.pdf) |
+| [Lecture 2.2 - Currying](https://www.youtube.com/watch?v=IAchwrL4f9s&list=PLO9y7hOkmmSFAxC3SJi0c5UHSotBVHyar&index=2) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week2-3.pdf) |
+| [Lecture 2.3 - Example: Finding Fixed Points](https://www.youtube.com/watch?v=p9vDUaxhOrI&list=PLO9y7hOkmmSFAxC3SJi0c5UHSotBVHyar&index=3) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week2-4.pdf) |
+| [Lecture 2.4 - Scala Syntax Summary](https://www.youtube.com/watch?v=T0GoJ22Y2-E&list=PLO9y7hOkmmSFAxC3SJi0c5UHSotBVHyar&index=4) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week2-5.pdf) |
+| [Lecture 2.5 - Functions and Data](https://www.youtube.com/watch?v=ASNudJQPO28&list=PLO9y7hOkmmSFAxC3SJi0c5UHSotBVHyar&index=5) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week3-1.pdf) |
+| [Lecture 2.6 - More Fun With Rationals](https://www.youtube.com/watch?v=mSRgSbOx8Ns&list=PLO9y7hOkmmSFAxC3SJi0c5UHSotBVHyar&index=6) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week3-2.pdf) |
+| [Lecture 2.7 - Evaluation and Operators](https://www.youtube.com/watch?v=Aai5f5RBq98&list=PLO9y7hOkmmSFAxC3SJi0c5UHSotBVHyar&index=7) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week3-3.pdf) |
 
 # Scala and Spark Class
 
