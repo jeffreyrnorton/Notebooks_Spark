@@ -56,19 +56,7 @@
 | [Lecture 6.4 - Maps](https://www.youtube.com/watch?v=2OHxj6IHyts&list=PLO9y7hOkmmSGJxducP4r5XB6lNx1i2Hae&index=6) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week6-6.pdf) |
 | [Lecture 6.5 - Putting the Pieces Together](https://www.youtube.com/watch?v=BZvib6Mu_tw&list=PLO9y7hOkmmSGJxducP4r5XB6lNx1i2Hae&index=7) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week6-7.pdf)
 
-# Scala and Spark Class
 
-From Heather Miller.  This is a combination of her [CS 4240 course](http://heather.miller.am/teaching/cs4240/spring2018/#resources) at Northeastern University and the Coursera course.
-
-## Introduction, Data Parallelism, and Scala
-
-### Slides
-
-[Intro, Why Scala, Why Spark](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-1.pdf)
-
-[Data-Parallel to Distributed Data-Parallel](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-2.pdf)
-
-[Latency](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-3.pdf)
 
 ### Introduction to Scala
 
@@ -100,49 +88,42 @@ Scala 101 - [Free set of short video lectures](https://cognitiveclass.ai/courses
  * [5.5 Handling Futures](http://heather.miller.am/teaching/cs4240/spring2018/pdf/5-5.pdf)
  * [All Slides](http://heather.miller.am/teaching/cs4240/spring2018/pdf/scala101.pdf)
 
+# Introduction to Spark
 
 
-## Introduction to Spark
+
+# Scala and Spark Class
+
+From Heather Miller.  This is a combination of her [CS 4240 course](http://heather.miller.am/teaching/cs4240/spring2018/#resources) at Northeastern University and the Coursera course.
+
+## Introduction, Data Parallelism, and Scala
 
 ### Slides
 
-[Resilient Distributed Datasets (RDDs)](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-4.pdf)
+[Intro, Why Scala, Why Spark](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-1.pdf)
 
-[Transformations and Actions](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-5.pdf)
+[Data-Parallel to Distributed Data-Parallel](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-2.pdf)
 
-[Evaluation in Spark: Unlike Scala Collections](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-6.pdf)
+[Latency](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-3.pdf)
 
-[Cluster Topology Matters!](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-7.pdf)
-
-[Reduction Operations](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-2-1.pdf)
-
-### Videos
-
-[Introduction & Logistics](https://www.youtube.com/watch?v=UMRPXQzV_Ro)
-
-[Data-Parallel to Distributed Data-Parallel](https://www.youtube.com/watch?v=V4hj6LZnvAE)
-
-[Latency](https://www.youtube.com/watch?v=DXq5MOYGK1U)
-
-[RDDs, Spark's Distributed Collection](https://www.youtube.com/watch?v=u2b4xfPzJ8M)
-
-[RDDs: Transformation and Actions](https://www.youtube.com/watch?v=JjuKVv8SiLg)
-
-[Evaluation in Spark: Unlike Scala Collections!](https://www.youtube.com/watch?v=HPJVsSHpfBI)
-
-[Cluster Topology Matters!](https://www.youtube.com/watch?v=FWbQ5o7UDOc)
+| Videos | Slides |
+| ------ | ------ | 
+| [Introduction & Logistics](https://www.youtube.com/watch?v=UMRPXQzV_Ro) |   |
+| [Data-Parallel to Distributed Data-Parallel](https://www.youtube.com/watch?v=V4hj6LZnvAE) |   |
+| [Latency](https://www.youtube.com/watch?v=DXq5MOYGK1U)
+| [RDDs, Spark's Distributed Collection](https://www.youtube.com/watch?v=u2b4xfPzJ8M) | [Resilient Distributed Datasets (RDDs)](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-4.pdf) |
+| [RDDs: Transformation and Actions](https://www.youtube.com/watch?v=JjuKVv8SiLg) | [Transformations and Actions](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-5.pdf) |
+| [Evaluation in Spark: Unlike Scala Collections!](https://www.youtube.com/watch?v=HPJVsSHpfBI) | [Evaluation in Spark: Unlike Scala Collections](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-6.pdf) |
+| [Cluster Topology Matters!](https://www.youtube.com/watch?v=FWbQ5o7UDOc) | [Cluster Topology Matters!](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-7.pdf) |
+| [Reduction Operations](https://www.youtube.com/watch?v=VX3dgOtWX2M) | [Reduction Operations](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-2-1.pdf) |
 
 ### Book References
 
-[High Performance Spark - How Spark Works](https://musings-on-ai.s3.amazonaws.com/Spark/highperformancespark.pdf#page=23)
-
-[Learning Spark - Programming with RDDs](https://musings-on-ai.s3.amazonaws.com/Spark/learningspark.pdf#page=41)
-
-[Learning Spark - Loading and Saving Your Data](https://musings-on-ai.s3.amazonaws.com/Spark/learningspark.pdf#page=89)
-
-[High Performance Spark - Effective Transformations](https://musings-on-ai.s3.amazonaws.com/Spark/highperformancespark.pdf#page=101)
-
-[Mastering Apache Spark](https://legacy.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
+[High Performance Spark - How Spark Works](https://musings-on-ai.s3.amazonaws.com/Spark/highperformancespark.pdf#page=23)  
+[Learning Spark - Programming with RDDs](https://musings-on-ai.s3.amazonaws.com/Spark/learningspark.pdf#page=41)  
+[Learning Spark - Loading and Saving Your Data](https://musings-on-ai.s3.amazonaws.com/Spark/learningspark.pdf#page=89)  
+[High Performance Spark - Effective Transformations](https://musings-on-ai.s3.amazonaws.com/Spark/highperformancespark.pdf#page=101)  
+[Mastering Apache Spark](https://legacy.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)  
 
 ## Key-Value Pairs and Joins
 
@@ -156,7 +137,6 @@ Scala 101 - [Free set of short video lectures](https://cognitiveclass.ai/courses
 
 ### Videos
 
-[Reduction Operations](https://www.youtube.com/watch?v=VX3dgOtWX2M)
 
 [Pair RDDs](https://www.youtube.com/watch?v=ei-dhfYHl9M)
 
