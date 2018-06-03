@@ -3,10 +3,12 @@
 [An Eclipse Tutorial](http://scala-ide.org/docs/tutorials/index.html) 
 [How to configure SBT to work with Eclipse](https://alvinalexander.com/scala/sbt-how-to-configure-work-with-eclipse-projects)
 [Structure and Interpretation of Computer Programs (2nd Edition) Harold Abelson and Gerald Jay Sussman with Julie Sussman ](http://web.mit.edu/alexmv/6.037/sicp.pdf)  
-[Programming in Scala (2nd Edition) Martin Odersky, Lex Spoon and Bill Venners](http://ccfit.nsu.ru/~den/Scala/programming_in_scala_2nd.pdf)
-[Scala Cookbook, Alvin Alexander](http://musings-on-ai.s3.amazonaws.com/Spark/scalacookbook.pdf)
-[Programming Scala, Dean Wampler & Alex Payne](http://musings-on-ai.s3.amazonaws.com/Spark/programmingscala.pdf)
-[Learning Scala, Jason Swartz](http://musings-on-ai.s3.amazonaws.com/Spark/learningscala.pdf)
+[Programming in Scala (2nd Edition) Martin Odersky, Lex Spoon and Bill Venners](http://ccfit.nsu.ru/~den/Scala/programming_in_scala_2nd.pdf)  
+[Scala Cookbook, Alvin Alexander](http://musings-on-ai.s3.amazonaws.com/Spark/scalacookbook.pdf)  
+[Programming Scala, Dean Wampler & Alex Payne](http://musings-on-ai.s3.amazonaws.com/Spark/programmingscala.pdf)  
+[Learning Scala, Jason Swartz](http://musings-on-ai.s3.amazonaws.com/Spark/learningscala.pdf)  
+[Scala: an eyintroduction](http://janvitek.org/pdpmr/f17/notes/scala.html) by Konrad Siek.  
+[Twitter's Scala School](https://twitter.github.io/scala_school/) - Scala onboarding materials used by Twitter.  
 
 # Functional Programming Principles in Scala
 
@@ -39,6 +41,20 @@
 | [Lecture 4.5 - Decomposition](https://www.youtube.com/watch?v=L3JTggvJZt4&index=5&list=PLO9y7hOkmmSEmDcxBXvIDp-1b5EIC5Ed5) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week4-6.pdf) |
 | [Lecture 4.6 - Pattern Matching](https://www.youtube.com/watch?v=S60PiAw-Tg4&index=6&list=PLO9y7hOkmmSEmDcxBXvIDp-1b5EIC5Ed5) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week4-7.pdf) |
 | [Lecture 4.7 - Lists](https://www.youtube.com/watch?v=6SMuO28__mQ&index=7&list=PLO9y7hOkmmSEmDcxBXvIDp-1b5EIC5Ed5) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week5-1.pdf) |
+| [Lecture 5.1 - More Functions on Lists](https://www.youtube.com/watch?v=U23j6yH21W4&index=1&list=PLO9y7hOkmmSFONdwXCEfZdS6CagKCOmlT) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week5-2.pdf) |
+| [Lecture 5.2 - Pairs and Tuples](https://www.youtube.com/watch?v=IFg7E81WQMA&index=2&list=PLO9y7hOkmmSFONdwXCEfZdS6CagKCOmlT) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week5-3.pdf) |
+| [Lecture 5.3 - Implicit Parameters](https://www.youtube.com/watch?v=6TYhv4CktNk&index=3&list=PLO9y7hOkmmSFONdwXCEfZdS6CagKCOmlT) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week5-4.pdf) |
+| [Lecture 5.4 - Higher-Order List Functions](https://www.youtube.com/watch?v=arNIHzaEHYk&index=4&list=PLO9y7hOkmmSFONdwXCEfZdS6CagKCOmlT) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week5-5.pdf) |
+| [Lecture 5.5 - Reduction of Lists](https://www.youtube.com/watch?v=dkdjmrnnaF4&index=5&list=PLO9y7hOkmmSFONdwXCEfZdS6CagKCOmlT) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week5-6.pdf) |
+| [Lecture 5.6 - Reasoning About Concat](https://www.youtube.com/watch?v=hkgC2lkLgD8&index=6&list=PLO9y7hOkmmSFONdwXCEfZdS6CagKCOmlT) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week5-7.pdf) |
+| [Lecture 5.7 - A Larger Equational Proof on Lists](https://www.youtube.com/watch?v=u1_QMIJNHtU&index=7&list=PLO9y7hOkmmSFONdwXCEfZdS6CagKCOmlT) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week5-8.pdf) |
+| [Lecture 6.1 - Other Collections](https://www.youtube.com/watch?v=mzFJcZOrJHM&list=PLO9y7hOkmmSGJxducP4r5XB6lNx1i2Hae&index=1) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week6-1.pdf) |
+| [Lecture 6.2 - Combinatorial Search and For-Expressions](https://www.youtube.com/watch?v=Zg0bII9-tfc&list=PLO9y7hOkmmSGJxducP4r5XB6lNx1i2Hae&index=3) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week6-2.pdf) |
+| [Lecture 6.3 - Combinatorial Search Example](https://www.youtube.com/watch?v=Zg0bII9-tfc&list=PLO9y7hOkmmSGJxducP4r5XB6lNx1i2Hae&index=3) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week6-3.pdf) |
+| [Queries with For](https://www.youtube.com/watch?v=nZqHJbUsJNU&list=PLO9y7hOkmmSGJxducP4r5XB6lNx1i2Hae&index=4) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week6-4.pdf) |
+| [Translation of For](https://www.youtube.com/watch?v=WG58RntpggI&list=PLO9y7hOkmmSGJxducP4r5XB6lNx1i2Hae&index=5) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week6-5.pdf) |
+| [Lecture 6.4 - Maps](https://www.youtube.com/watch?v=2OHxj6IHyts&list=PLO9y7hOkmmSGJxducP4r5XB6lNx1i2Hae&index=6) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week6-6.pdf) |
+| [Lecture 6.5 - Putting the Pieces Together](https://www.youtube.com/watch?v=BZvib6Mu_tw&list=PLO9y7hOkmmSGJxducP4r5XB6lNx1i2Hae&index=7) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week6-7.pdf)
 
 # Scala and Spark Class
 
@@ -84,9 +100,7 @@ Scala 101 - [Free set of short video lectures](https://cognitiveclass.ai/courses
  * [5.5 Handling Futures](http://heather.miller.am/teaching/cs4240/spring2018/pdf/5-5.pdf)
  * [All Slides](http://heather.miller.am/teaching/cs4240/spring2018/pdf/scala101.pdf)
 
-[Scala: an eyintroduction](http://janvitek.org/pdpmr/f17/notes/scala.html) by Konrad Siek.
 
-[Twitter's Scala School](https://twitter.github.io/scala_school/) - Scala onboarding materials used by Twitter.
 
 ## Introduction to Spark
 
