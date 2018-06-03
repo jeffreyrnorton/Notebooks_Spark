@@ -1,3 +1,31 @@
+# Functional Programming Principles in Scala
+
+| Video | Slides |
+| ----- | ------ |
+| blah | blahah |
+
+[Course Introduction](https://www.youtube.com/watch?v=iegaxBgBCEs&index=2&list=PLO9y7hOkmmSHHvFXfpJ-F8e9e1TtWUNox&t=0s)
+[Tools Setup for Linux](https://www.youtube.com/watch?v=TdH_dv9wrcE&list=PLO9y7hOkmmSHHvFXfpJ-F8e9e1TtWUNox&index=2)
+[Tools Setup for Windows](https://www.youtube.com/watch?v=0sAGWTqgJCI&list=PLO9y7hOkmmSHHvFXfpJ-F8e9e1TtWUNox&index=4)
+[Lecture 1.1 - Programming Paradigms](https://www.youtube.com/watch?v=DN6YqrI8aLk)
+[Lecture 1.2 - Elements of Programming](https://www.youtube.com/watch?v=ev5N7rzcwW8&list=PLO9y7hOkmmSEAtkvo_lQdIK8SfhO6x78Q&index=2)
+[Lecture 1.3 - Evaluation Strategies and Termination](https://www.youtube.com/watch?v=EWEFPR7uI6c&list=PLO9y7hOkmmSEAtkvo_lQdIK8SfhO6x78Q&index=3)
+[Lecture 1.4 - Conditionals and Value Definitions](https:/)/www.youtube.com/watch?v=su1nR4op46I&index=4&list=PLO9y7hOkmmSEAtkvo_lQdIK8SfhO6x78Q)
+[Lecture 1.5 - Example: square roots with Newton's method](https://www.youtube.com/watch?v=FM4I8hU5kqk&index=5&list=PLO9y7hOkmmSEAtkvo_lQdIK8SfhO6x78Q)
+[Lecture 1.6 - Blocks and Lexical Scope](https://www.youtube.com/watch?v=RlefE2isw9s&list=PLO9y7hOkmmSEAtkvo_lQdIK8SfhO6x78Q&index=6)
+[Lecture 1.7 - Tail Recursion](https://www.youtube.com/watch?v=xhT6c9dM1Ds&index=7&list=PLO9y7hOkmmSEAtkvo_lQdIK8SfhO6x78Q)
+8 readings
+Tools Setup (Please read)10m
+Cheat Sheet10m
+IntelliJ IDEA Tutorial10m
+Eclipse Tutorial10m
+SBT tutorial and Submission of Assignments (Please read)10m
+Learning Resources10m
+Scala Tutorial10m
+Scala Style Guide10m
+1 practice exercises
+Learning check-in2m
+
 # Scala and Spark Class
 
 From Heather Miller.  This is a combination of her [CS 4240 course](http://heather.miller.am/teaching/cs4240/spring2018/#resources) at Northeastern University and the Coursera course.
