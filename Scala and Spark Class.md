@@ -2,13 +2,12 @@
 
 | Video | Slides |
 | ----- | ------ |
-| blah | blahah |
+| [Course Introduction](https://www.youtube.com/watch?v=iegaxBgBCEs&index=2&list=PLO9y7hOkmmSHHvFXfpJ-F8e9e1TtWUNox&t=0s) |  |
+| [Tools Setup for Linux](https://www.youtube.com/watch?v=TdH_dv9wrcE&list=PLO9y7hOkmmSHHvFXfpJ-F8e9e1TtWUNox&index=2) |  |
+| [Tools Setup for Windows](https://www.youtube.com/watch?v=0sAGWTqgJCI&list=PLO9y7hOkmmSHHvFXfpJ-F8e9e1TtWUNox&index=4) |   |
+[Lecture 1.1 - Programming Paradigms](https://www.youtube.com/watch?v=DN6YqrI8aLk) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week1-1.pdf) |
+| [Lecture 1.2 - Elements of Programming](https://www.youtube.com/watch?v=ev5N7rzcwW8&list=PLO9y7hOkmmSEAtkvo_lQdIK8SfhO6x78Q&index=2) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week1-2.pdf)
 
-[Course Introduction](https://www.youtube.com/watch?v=iegaxBgBCEs&index=2&list=PLO9y7hOkmmSHHvFXfpJ-F8e9e1TtWUNox&t=0s)
-[Tools Setup for Linux](https://www.youtube.com/watch?v=TdH_dv9wrcE&list=PLO9y7hOkmmSHHvFXfpJ-F8e9e1TtWUNox&index=2)
-[Tools Setup for Windows](https://www.youtube.com/watch?v=0sAGWTqgJCI&list=PLO9y7hOkmmSHHvFXfpJ-F8e9e1TtWUNox&index=4)
-[Lecture 1.1 - Programming Paradigms](https://www.youtube.com/watch?v=DN6YqrI8aLk)
-[Lecture 1.2 - Elements of Programming](https://www.youtube.com/watch?v=ev5N7rzcwW8&list=PLO9y7hOkmmSEAtkvo_lQdIK8SfhO6x78Q&index=2)
 [Lecture 1.3 - Evaluation Strategies and Termination](https://www.youtube.com/watch?v=EWEFPR7uI6c&list=PLO9y7hOkmmSEAtkvo_lQdIK8SfhO6x78Q&index=3)
 [Lecture 1.4 - Conditionals and Value Definitions](https:/)/www.youtube.com/watch?v=su1nR4op46I&index=4&list=PLO9y7hOkmmSEAtkvo_lQdIK8SfhO6x78Q)
 [Lecture 1.5 - Example: square roots with Newton's method](https://www.youtube.com/watch?v=FM4I8hU5kqk&index=5&list=PLO9y7hOkmmSEAtkvo_lQdIK8SfhO6x78Q)
