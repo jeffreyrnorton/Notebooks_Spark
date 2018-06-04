@@ -185,17 +185,12 @@ From Heather Miller.  This is a combination of her [CS 4240 course](http://heath
 
 ### Slides
 
-[Intro, Why Scala, Why Spark](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-1.pdf)
-
-[Data-Parallel to Distributed Data-Parallel](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-2.pdf)
-
-[Latency](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-3.pdf)
-
 | Videos | Slides |
 | ------ | ------ | 
-| [Introduction & Logistics](https://www.youtube.com/watch?v=UMRPXQzV_Ro) |   |
-| [Data-Parallel to Distributed Data-Parallel](https://www.youtube.com/watch?v=V4hj6LZnvAE) |   |
-| [Latency](https://www.youtube.com/watch?v=DXq5MOYGK1U)
+| [Introduction & Logistics](https://www.youtube.com/watch?v=UMRPXQzV_Ro) | [Intro, Why Scala, Why Spark](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-1.pdf) |
+| [Data-Parallel to Distributed Data-Parallel](https://www.youtube.com/watch?v=V4hj6LZnvAE) | [Data-Parallel to Distributed Data-Parallel](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-2.pdf)
+ |
+| [Latency](https://www.youtube.com/watch?v=DXq5MOYGK1U) | [Latency](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-3.pdf) |
 | [RDDs, Spark's Distributed Collection](https://www.youtube.com/watch?v=u2b4xfPzJ8M) | [Resilient Distributed Datasets (RDDs)](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-4.pdf) |
 | [RDDs: Transformation and Actions](https://www.youtube.com/watch?v=JjuKVv8SiLg) | [Transformations and Actions](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-5.pdf) |
 | [Evaluation in Spark: Unlike Scala Collections!](https://www.youtube.com/watch?v=HPJVsSHpfBI) | [Evaluation in Spark: Unlike Scala Collections](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-6.pdf) |
