@@ -55,14 +55,12 @@
 | [Translation of For](https://www.youtube.com/watch?v=WG58RntpggI&list=PLO9y7hOkmmSGJxducP4r5XB6lNx1i2Hae&index=5) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week6-5.pdf) |
 | [Lecture 6.4 - Maps](https://www.youtube.com/watch?v=2OHxj6IHyts&list=PLO9y7hOkmmSGJxducP4r5XB6lNx1i2Hae&index=6) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week6-6.pdf) |
 | [Lecture 6.5 - Putting the Pieces Together](https://www.youtube.com/watch?v=BZvib6Mu_tw&list=PLO9y7hOkmmSGJxducP4r5XB6lNx1i2Hae&index=7) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week6-7.pdf)
-| [Structural Induction on Trees](https://www.youtube.com/watch?v=JJ2re4cIeNY&list=PLO9y7hOkmmSHz-a9tj_HvCM2KDB6MTYI5&index=1) | [Slides]() |
-| [Streams](https://www.youtube.com/watch?v=PdxCEfCz6wI&list=PLO9y7hOkmmSHz-a9tj_HvCM2KDB6MTYI5&index=2) | [Slides]() |
-| [Lazy Evaluation](https://www.youtube.com/watch?v=-8inzxqT-No&list=PLO9y7hOkmmSHz-a9tj_HvCM2KDB6MTYI5&index=3) | [Slides]() |
-| [Computing with Infinite Sequences](https://www.youtube.com/watch?v=V4hbxp-3Ldo&list=PLO9y7hOkmmSHz-a9tj_HvCM2KDB6MTYI5&index=4) | [Slides]() |
-| [Case Study: The Water Pouring Problem](https://www.youtube.com/watch?v=gjTDp4-UBsY&list=PLO9y7hOkmmSHz-a9tj_HvCM2KDB6MTYI5&index=5) | [Slides]() |
-| [Course Conclusion](https://www.youtube.com/watch?v=gjTDp4-UBsY&list=PLO9y7hOkmmSHz-a9tj_HvCM2KDB6MTYI5&index=5) | [Slides]() |
-
-
+| [Structural Induction on Trees](https://www.youtube.com/watch?v=JJ2re4cIeNY&list=PLO9y7hOkmmSHz-a9tj_HvCM2KDB6MTYI5&index=1) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week7-1.pdf) |
+| [Streams](https://www.youtube.com/watch?v=PdxCEfCz6wI&list=PLO9y7hOkmmSHz-a9tj_HvCM2KDB6MTYI5&index=2) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week7-2.pdf) |
+| [Lazy Evaluation](https://www.youtube.com/watch?v=-8inzxqT-No&list=PLO9y7hOkmmSHz-a9tj_HvCM2KDB6MTYI5&index=3) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week7-3.pdf) |
+| [Computing with Infinite Sequences](https://www.youtube.com/watch?v=V4hbxp-3Ldo&list=PLO9y7hOkmmSHz-a9tj_HvCM2KDB6MTYI5&index=4) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week7-4.pdf) |
+| [Case Study: The Water Pouring Problem](https://www.youtube.com/watch?v=gjTDp4-UBsY&list=PLO9y7hOkmmSHz-a9tj_HvCM2KDB6MTYI5&index=5) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week7-5.pdf) |
+| [Course Conclusion](https://www.youtube.com/watch?v=gjTDp4-UBsY&list=PLO9y7hOkmmSHz-a9tj_HvCM2KDB6MTYI5&index=5) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week7-6.pdf) |
 
 ### Introduction to Scala
 
