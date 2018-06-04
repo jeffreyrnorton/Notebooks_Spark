@@ -188,8 +188,7 @@ From Heather Miller.  This is a combination of her [CS 4240 course](http://heath
 | Videos | Slides |
 | ------ | ------ | 
 | [Introduction & Logistics](https://www.youtube.com/watch?v=UMRPXQzV_Ro) | [Intro, Why Scala, Why Spark](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-1.pdf) |
-| [Data-Parallel to Distributed Data-Parallel](https://www.youtube.com/watch?v=V4hj6LZnvAE) | [Data-Parallel to Distributed Data-Parallel](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-2.pdf)
- |
+| [Data-Parallel to Distributed Data-Parallel](https://www.youtube.com/watch?v=V4hj6LZnvAE) | [Data-Parallel to Distributed Data-Parallel](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-2.pdf) |
 | [Latency](https://www.youtube.com/watch?v=DXq5MOYGK1U) | [Latency](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-3.pdf) |
 | [RDDs, Spark's Distributed Collection](https://www.youtube.com/watch?v=u2b4xfPzJ8M) | [Resilient Distributed Datasets (RDDs)](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-4.pdf) |
 | [RDDs: Transformation and Actions](https://www.youtube.com/watch?v=JjuKVv8SiLg) | [Transformations and Actions](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-5.pdf) |
@@ -207,29 +206,16 @@ From Heather Miller.  This is a combination of her [CS 4240 course](http://heath
 
 ## Key-Value Pairs and Joins
 
-### Slides
-
-[Distributed Key-Value Pairs (Pair RDDs)](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-2-2.pdf)
-
-[Transformations and Actions on Pair RDDs](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-2-3.pdf)
-
-[Joins](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-2-4.pdf)
-
-### Videos
-
-
-[Pair RDDs](https://www.youtube.com/watch?v=ei-dhfYHl9M)
-
-[Transformations and Actions on Pair RDDs](https://www.youtube.com/watch?v=vCg3QcvHfWk)
-
-[Joins](https://www.youtube.com/watch?v=47gtEOQzaJk)
+| Videos | Slides |
+| ------ | ------ | 
+| [Pair RDDs](https://www.youtube.com/watch?v=ei-dhfYHl9M) | [Distributed Key-Value Pairs (Pair RDDs)](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-2-2.pdf) |
+| [Transformations and Actions on Pair RDDs](https://www.youtube.com/watch?v=vCg3QcvHfWk) | [Transformations and Actions on Pair RDDs](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-2-3.pdf) |
+| [Joins](https://www.youtube.com/watch?v=47gtEOQzaJk) | [Joins](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-2-4.pdf) |
 
 ### Book References
 
-[Learning Spark - Working with Key/Value Pairs](https://musings-on-ai.s3.amazonaws.com/Spark/learningspark.pdf#page=65)
-
-[High Performance Spark - Working with Key/Value Pairs](https://musings-on-ai.s3.amazonaws.com/Spark/highperformancespark.pdf#page=141)
-
+[Learning Spark - Working with Key/Value Pairs](https://musings-on-ai.s3.amazonaws.com/Spark/learningspark.pdf#page=65)  
+[High Performance Spark - Working with Key/Value Pairs](https://musings-on-ai.s3.amazonaws.com/Spark/highperformancespark.pdf#page=141)  
 [High Performance Spark - Joins (SQL and Core)](https://musings-on-ai.s3.amazonaws.com/Spark/highperformancespark.pdf#page=89)
 
 ## Shuffling, Partitioning
