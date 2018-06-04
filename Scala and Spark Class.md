@@ -101,8 +101,30 @@ Scala 101 - [Free set of short video lectures](https://cognitiveclass.ai/courses
 * [Lecture 1.2 - Translation of For](https://www.youtube.com/watch?v=WG58RntpggI&list=PLO9y7hOkmmSGJxducP4r5XB6lNx1i2Hae&index=5)
 * [Lecture 1.3 - Functional Random Generators](https://www.youtube.com/watch?v=FOYASQx9hrg&index=4&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
 * [Lecture 1.4 - Monads](https://www.youtube.com/watch?v=oUr1IQPHa9M&index=5&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
-
-
+* [Lecture 2.1 - Structural Induction on Trees](https://www.youtube.com/watch?v=JJ2re4cIeNY&list=PLO9y7hOkmmSHz-a9tj_HvCM2KDB6MTYI5&index=1)
+* [Lecture 2.2 - Streams](https://www.youtube.com/watch?v=PdxCEfCz6wI&list=PLO9y7hOkmmSHz-a9tj_HvCM2KDB6MTYI5&index=2)
+* [Lecture 2.3 - Lazy Evaluation](https://www.youtube.com/watch?v=-8inzxqT-No&list=PLO9y7hOkmmSHz-a9tj_HvCM2KDB6MTYI5&index=3)
+* [Lecture 2.4 - Computing with Infinite Sequences](https://www.youtube.com/watch?v=V4hbxp-3Ldo&list=PLO9y7hOkmmSHz-a9tj_HvCM2KDB6MTYI5&index=4)
+* [Lecture 2.5 - Case Study: the Water Pouring Problem](https://www.youtube.com/watch?v=gjTDp4-UBsY&list=PLO9y7hOkmmSHz-a9tj_HvCM2KDB6MTYI5&index=5)
+* [Lecture 3.1 - Functions and State](https://www.youtube.com/watch?v=3X3r-9xxDEs&index=6&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
+* [Lecture 3.2 - Identity and Change](https://www.youtube.com/watch?v=XSTC7jpeUAI&index=7&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
+* [Lecture 3.3 - Loops](https://www.youtube.com/watch?v=Gm7-B1Ob74U&index=8&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
+* [Lecture 3.4 - Extended Example: Discrete Event Simulation](https://www.youtube.com/watch?v=OD_M1p69sNI&index=9&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
+* [Lecture 3.5 - Discrete Event Simulation: API and Usage](https://www.youtube.com/watch?v=iPG5fTpvUZM&index=10&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
+* [Lecture 3.6 - Discrete Event Simulation: Implementation and Test](https://www.youtube.com/watch?v=f0GM6g258eQ&index=11&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
+* [Lecture 4.1 - Imperative Event Handling: The Observer Pattern](https://www.youtube.com/watch?v=itlTz4O22zU&index=12&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
+* [Lecture 4.2 - Functional Reactive Programming](https://www.youtube.com/watch?v=-4HhehscYI0&index=13&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
+* [Lecture 4.3 - A Simple FRP Implementation](https://www.youtube.com/watch?v=jg-rtkkVaxc&index=14&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
+* [Monads and Effects I](https://www.youtube.com/watch?v=ldzL98ewJeo&index=15&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
+* [Monads and Effects II](https://www.youtube.com/watch?v=4MCdWHbfCCE&index=16&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
+* [Lecture 4.4 - Latency as an Effect](https://www.youtube.com/watch?v=kQngC2WIPxU&index=17&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
+* [Lecture 4.5 - Latency as an Effect 2](https://www.youtube.com/watch?v=Sw4EjDmx8mQ&index=18&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
+* [Lecture 4.6 - Combinators on Futures](https://www.youtube.com/watch?v=c-QeU7vk_k0&index=19&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
+* [Lecture 4.7 - Combinators on Futures 2](https://www.youtube.com/watch?v=0Y1axf_O9O0&index=20&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
+* [Lecture 4.8 - Composing Futures 1](https://www.youtube.com/watch?v=rMggrOkxCqE&index=21&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
+* Lecture 4.9 - Implementation of flatMap on Future
+* [Lecture 4.10 - Composing Futures 2](https://www.youtube.com/watch?v=x5pB8TkjlBc&index=22&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
+* Conclusion
 
 # Introduction to Spark
 
