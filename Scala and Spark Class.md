@@ -115,8 +115,8 @@ Scala 101 - [Free set of short video lectures](https://cognitiveclass.ai/courses
 * [Lecture 4.1 - Imperative Event Handling: The Observer Pattern](https://www.youtube.com/watch?v=itlTz4O22zU&index=12&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
 * [Lecture 4.2 - Functional Reactive Programming](https://www.youtube.com/watch?v=-4HhehscYI0&index=13&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
 * [Lecture 4.3 - A Simple FRP Implementation](https://www.youtube.com/watch?v=jg-rtkkVaxc&index=14&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
-* [Monads and Effects I](https://www.youtube.com/watch?v=ldzL98ewJeo&index=15&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
-* [Monads and Effects II](https://www.youtube.com/watch?v=4MCdWHbfCCE&index=16&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
+* [Monads and Effects 1](https://www.youtube.com/watch?v=ldzL98ewJeo&index=15&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
+* [Monads and Effects 2](https://www.youtube.com/watch?v=4MCdWHbfCCE&index=16&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
 * [Lecture 4.4 - Latency as an Effect](https://www.youtube.com/watch?v=kQngC2WIPxU&index=17&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
 * [Lecture 4.5 - Latency as an Effect 2](https://www.youtube.com/watch?v=Sw4EjDmx8mQ&index=18&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
 * [Lecture 4.6 - Combinators on Futures](https://www.youtube.com/watch?v=c-QeU7vk_k0&index=19&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
@@ -124,13 +124,95 @@ Scala 101 - [Free set of short video lectures](https://cognitiveclass.ai/courses
 * [Lecture 4.8 - Composing Futures 1](https://www.youtube.com/watch?v=rMggrOkxCqE&index=21&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
 * Lecture 4.9 - Implementation of flatMap on Future
 * [Lecture 4.10 - Composing Futures 2](https://www.youtube.com/watch?v=x5pB8TkjlBc&index=22&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
-* Conclusion
+* [Async Await](https://www.youtube.com/watch?v=kSXJ9aiIh7Y&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN&index=23)
+* [Promises, promises](https://www.youtube.com/watch?v=jairUUf4tQ4&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN&index=24)
+* [From Try to Future](https://www.youtube.com/watch?v=9WlVwesIpT8&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN&index=25)
+* [From Iterables to Observables 1](https://www.youtube.com/watch?v=hT_sscKIt8g&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN&index=26)
+* [From Iterables to Observables 2](https://www.youtube.com/watch?v=fygtRadtzJg&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN&index=27)
+* [Hello World Observables](https://www.youtube.com/watch?v=zlPUShzLG00&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN&index=28)
+* [RX Operators](https://www.youtube.com/watch?v=W7QepYKUq1Q&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN&index=29)
+* [Subscriptions](https://www.youtube.com/watch?v=TxahXwv7GMM&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN&index=30)
+* [Promises and Subjects](https://www.youtube.com/watch?v=MkBbb9xQq2E&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN&index=31)
+* [RX potpourri](https://www.youtube.com/watch?v=2ZhZbxE3vdY&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN&index=32)
+vasnake4yt
+33
+
+14:20
+6 15 Observable Contract 14 19
+vasnake4yt
+34
+
+14:47
+7 1 Introduction Why Actors 14 46
+vasnake4yt
+35
+
+13:44
+7 2 The Actor Model 13 43
+vasnake4yt
+36
+
+27:29
+7 3 Message Processing Semantics 27 28
+vasnake4yt
+37
+
+38:11
+7 5 Designing Actor Systems 38 10
+vasnake4yt
+38
+
+17:17
+7 6 Testing Actor Systems 17 16
+vasnake4yt
+39
+
+22:39
+8 1 Failure Handling with Actors 22 38
+vasnake4yt
+40
+
+24:08
+8 2 Lifecycle Monitoring and the Error Kernel 24 07
+vasnake4yt
+41
+
+40:06
+8 5 Persistent Actor State 40 05
+vasnake4yt
+42
+
+36:31
+9 1 Actors are Distributed 36 30
+vasnake4yt
+43
+
+18:18
+9 2 Actors are Distributed Part II 18 17 — optional
+vasnake4yt
+44
+
+15:50
+9 3 Eventual Consistency 15 49
+vasnake4yt
+45
+
+20:15
+9 4 Actor Composition 20 14
+vasnake4yt
+46
+
+17:01
+9 5 Scalability 17 00
+vasnake4yt
+47
+
+11:42
+9 7 Responsiveness 11 41
+vasnake4yt
+
 
 # Introduction to Spark
-
-
-
-# Scala and Spark Class
 
 From Heather Miller.  This is a combination of her [CS 4240 course](http://heather.miller.am/teaching/cs4240/spring2018/#resources) at Northeastern University and the Coursera course.
 
