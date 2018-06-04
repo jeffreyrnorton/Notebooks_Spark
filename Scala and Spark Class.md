@@ -158,7 +158,7 @@ Scala 101 - [Free set of short video lectures](https://cognitiveclass.ai/courses
 * [Running Computations in Parallel](https://www.youtube.com/watch?v=DbVt8C0-Oe0&list=PLOhKADai-veUWo2cEAJ4JfC9Ssaa9Isbl&index=4)
 * [Monte Carlo Method to Estimate Pi](https://www.youtube.com/watch?v=PLURfYr-rdU&list=PLOhKADai-veUWo2cEAJ4JfC9Ssaa9Isbl&index=5)
 * [First-Class Tasks7](https://www.youtube.com/watch?v=gE-JDdxegMc&list=PLOhKADai-veUWo2cEAJ4JfC9Ssaa9Isbl&index=6)
-* [How Fast are Parallel Programs?](ht)tps://www.youtube.com/watch?v=kF-15rJ_iPM&list=PLOhKADai-veUWo2cEAJ4JfC9Ssaa9Isbl&index=7)
+* [How Fast are Parallel Programs?](https://www.youtube.com/watch?v=kF-15rJ_iPM&list=PLOhKADai-veUWo2cEAJ4JfC9Ssaa9Isbl&index=7)
 * [Benchmarking Parallel Programs](https://www.youtube.com/watch?v=AxqeZ-3jSJ4&list=PLOhKADai-veUWo2cEAJ4JfC9Ssaa9Isbl&index=8)
 * [Parallel Sorting](https://www.youtube.com/watch?v=79LsvRiSWac&list=PLOhKADai-veVs9X1yH7QEmAAtohmwbQXs&index=1)
 * [Data Operations and Parallel Mapping](https://www.youtube.com/watch?v=pZZgG81vROA&list=PLOhKADai-veVs9X1yH7QEmAAtohmwbQXs&index=2)
@@ -169,7 +169,7 @@ Scala 101 - [Free set of short video lectures](https://cognitiveclass.ai/courses
 * [Data-Parallel Programming](https://www.youtube.com/watch?v=Zksc1aEiV_s&index=1&list=PLOhKADai-veVfGEHmUShjPwjbmoofbY-N)
 * [Data-Parallel Operations I](https://www.youtube.com/watch?v=Nj2gk-IA9OU&index=2&list=PLOhKADai-veVfGEHmUShjPwjbmoofbY-N)
 * [Data-Parallel Operations II](https://www.youtube.com/watch?v=lXmvqLRftZQ&index=3&list=PLOhKADai-veVfGEHmUShjPwjbmoofbY-N)
-* [Scala Parallel Collections](https://www.youtube.com/watch?v=pEltisww8BE&index=4&list=PLOhKADai-veVfGEHmUShjPwjbmoofbY-N
+* [Scala Parallel Collections](https://www.youtube.com/watch?v=pEltisww8BE&index=4&list=PLOhKADai-veVfGEHmUShjPwjbmoofbY-N)
 * [Splitters and Combiner](https://www.youtube.com/watch?v=p50y6d6UdAk&index=5&list=PLOhKADai-veVfGEHmUShjPwjbmoofbY-N)
 * [Implementing Combiners](https://www.youtube.com/watch?v=q0DtFzMCWe8&index=1&list=PLOhKADai-veXBqCTu6IzQ6IG0Me2Fh8ju)
 * [Parallel Two-phase Construction](https://www.youtube.com/watch?v=PzHvNEs3gOw&index=2&list=PLOhKADai-veXBqCTu6IzQ6IG0Me2Fh8ju)
