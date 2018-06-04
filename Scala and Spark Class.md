@@ -240,103 +240,70 @@ From Heather Miller.  This is a combination of her [CS 4240 course](http://heath
 [High Performance Spark - DataFrames, Datasets, and Spark SQL](https://musings-on-ai.s3.amazonaws.com/Spark/highperformancespark.pdf#page=43)  
 [Master Spark SQL](https://legacy.gitbook.com/book/jaceklaskowski/mastering-spark-sql/details)
 
-## Other Big Data Tools, Intro to Stream Processing
+## Other Big Data Tools, Intro to Stream Processing (Slides Only)
 
-### Slides
+* [Other Big Data Tools](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-5-1.pdf)
+* [Introduction to Stream Processing](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-5-2.pdf)
 
-[Other Big Data Tools](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-5-1.pdf)
-
-[Introduction to Stream Processing](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-5-2.pdf)
-
-### Online Resources
+*Online Resources*
 
 [Using the Apache Spark Runner - Running Apache Beam pipelines using Spark](https://beam.apache.org/documentation/runners/spark/)
 
-## Spark Streaming
+## Spark Streaming (Slides Only)
 
-### Slides
+* [Spark Streaming and DStreams](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-6-1.pdf)
+* [Using foreachRDD](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-6-2.pdf)
+* [Windowing](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-6-3.pdf)
 
-[Spark Streaming and DStreams](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-6-1.pdf)
+*Online and Book References*
 
-[Using foreachRDD](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-6-2.pdf)
+* [Learning Spark - Spark Streaming](https://musings-on-ai.s3.amazonaws.com/Spark/learningspark.pdf#page=203)
+* [Tutorial. Hortonworks. Introduction to Spark Streaming](https://hortonworks.com/tutorial/introduction-to-spark-streaming/)
 
-[Windowing](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-6-3.pdf)
+## Stateful & Structured Streaming (Slides Only)
 
-### Online and Book References
+* [State and DStreams](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-7-1.pdf)
+* [Structured Streaming](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-7-2.pdf)
 
-[Learning Spark - Spark Streaming](https://musings-on-ai.s3.amazonaws.com/Spark/learningspark.pdf#page=203)
+## Apache Kafka (Slides Only)
 
-[Tutorial. Hortonworks. Introduction to Spark Streaming](https://hortonworks.com/tutorial/introduction-to-spark-streaming/)
+* [Publish-Subscribe](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-8-1.pdf)
+* [Kafka Core Concepts](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-8-2.pdf)
+* [Kafka Producers](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-8-3.pdf)
+* [Kafka Consumers](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-8-4.pdf)
 
-## Stateful & Structured Streaming
+*Online/Book Resources*
 
-### Slides
+* [Spark Streaming + Kafka Integration Guide](https://spark.apache.org/docs/2.2.0/streaming-kafka-integration.html)
+* [Kafka: The Definitive Guide - Kafka Producers: Writing Messages to Kafka](http://musings-on-ai.s3.amazonaws.com/Spark/confluent-kafka-definitive-guide-complete.pdf#page=64)
+* [Kafka: The Definitive Guide - Kafka Consumers: Reading Data from Kafka](http://musings-on-ai.s3.amazonaws.com/Spark/confluent-kafka-definitive-guide-complete.pdf#page=86)
+* [Kafka: The Definitive Guide - Kafka Internals](http://musings-on-ai.s3.amazonaws.com/Spark/confluent-kafka-definitive-guide-complete.pdf#page=118)
+* [Kafka: The Definitive Guide - Reliable Data Delivery](http://musings-on-ai.s3.amazonaws.com/Spark/confluent-kafka-definitive-guide-complete.pdf#page=138)
+* [Kafka: The Definitive Guide - Building Data Pipelines](http://musings-on-ai.s3.amazonaws.com/Spark/confluent-kafka-definitive-guide-complete.pdf#page=158)
+* [How to install Apache Kafka on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-14-04)
 
-[State and DStreams](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-7-1.pdf)
+## TensorFlow & Hadoop (Slides Only)
 
-[Structured Streaming](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-7-2.pdf)
-
-## Apache Kafka
-
-### Slides
-
-[Publish-Subscribe](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-8-1.pdf)
-
-[Kafka Core Concepts](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-8-2.pdf)
-
-[Kafka Producers](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-8-3.pdf)
-
-[Kafka Consumers](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-8-4.pdf)
-
-### Online/Book Resources
-
-[Spark Streaming + Kafka Integration Guide](https://spark.apache.org/docs/2.2.0/streaming-kafka-integration.html)
-
-[Kafka: The Definitive Guide - Kafka Producers: Writing Messages to Kafka](http://musings-on-ai.s3.amazonaws.com/Spark/confluent-kafka-definitive-guide-complete.pdf#page=64)
-
-[Kafka: The Definitive Guide - Kafka Consumers: Reading Data from Kafka](http://musings-on-ai.s3.amazonaws.com/Spark/confluent-kafka-definitive-guide-complete.pdf#page=86)
-
-[Kafka: The Definitive Guide - Kafka Internals](http://musings-on-ai.s3.amazonaws.com/Spark/confluent-kafka-definitive-guide-complete.pdf#page=118)
-
-[Kafka: The Definitive Guide - Reliable Data Delivery](http://musings-on-ai.s3.amazonaws.com/Spark/confluent-kafka-definitive-guide-complete.pdf#page=138)
-
-[Kafka: The Definitive Guide - Building Data Pipelines](http://musings-on-ai.s3.amazonaws.com/Spark/confluent-kafka-definitive-guide-complete.pdf#page=158)
-
-[How to install Apache Kafka on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-14-04)
-
-## TensorFlow & Hadoop
-
-### Slides
-
-[TensorFlow](http://heather.miller.am/teaching/cs4240/spring2018/pdf/tensorflow.pdf)
-
-[Hadoop](http://heather.miller.am/teaching/cs4240/spring2018/pdf/hadoop.pdf)
+* [TensorFlow](http://heather.miller.am/teaching/cs4240/spring2018/pdf/tensorflow.pdf)
+* [Hadoop](http://heather.miller.am/teaching/cs4240/spring2018/pdf/hadoop.pdf)
 
 ## SparkML and other Machine Learning Tools
 
 ### Online and Book Resources
 
-[Advanced Analytics with Spark](http://musings-on-ai.s3.amazonaws.com/Spark/Advanced-Analytics-with%20Spark.pdf)
-
-[Introduction to Machine Learning with Spark and MLlib (DataFrame API)](https://blog.scalac.io/scala-spark-ml.html)
-
-[Machine Learning Library (MLlib) Programming Guide](http://spark.apache.org/docs/1.2.1/mllib-guide.html)
-
-[Mastering Machine Learning with Spark 2.x](http://musings-on-ai.s3.amazonaws.com/Spark/mastering_machine_learning_with_spark_2x.pdf)
-
-[Spark MLLib](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/content/spark-mllib/spark-mllib.html)
-
-[Tutorial. Hortonworks. Intro to Machine Learning with Apache Spark and Apache Zeppelin](https://hortonworks.com/tutorial/intro-to-machine-learning-with-apache-spark-and-apache-zeppelin/)
-
-[Tutorial. Hortonworks. Predicting Airline Delays using SparkR](https://hortonworks.com/tutorial/intro-to-machine-learning-with-apache-spark-and-apache-zeppelin/)
+* [Advanced Analytics with Spark](http://musings-on-ai.s3.amazonaws.com/Spark/Advanced-Analytics-with%20Spark.pdf)
+* [Introduction to Machine Learning with Spark and MLlib (DataFrame API)](https://blog.scalac.io/scala-spark-ml.html)
+* [Machine Learning Library (MLlib) Programming Guide](http://spark.apache.org/docs/1.2.1/mllib-guide.html)
+* [Mastering Machine Learning with Spark 2.x](http://musings-on-ai.s3.amazonaws.com/Spark/mastering_machine_learning_with_spark_2x.pdf)
+* [Spark MLLib](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/content/spark-mllib/spark-mllib.html)
+* [Tutorial. Hortonworks. Intro to Machine Learning with Apache Spark and Apache Zeppelin](https://hortonworks.com/tutorial/intro-to-machine-learning-with-apache-spark-and-apache-zeppelin/)
+* [Tutorial. Hortonworks. Predicting Airline Delays using SparkR](https://hortonworks.com/tutorial/intro-to-machine-learning-with-apache-spark-and-apache-zeppelin/)
 
 ## Code on Github!
 
-[Apache Spark Examples](https://github.com/apache/spark/tree/master/examples/src/main/scala/org/apache/spark/examples)
-
-[Spark Scala Tutorial](https://github.com/deanwampler/spark-scala-tutorial/tree/master/notebooks)
-
-[Introduction to predictive modeling in Spark with applications in pharmaceutical bioinformatics](https://github.com/mcapuccini/spark-tutorial)
+* [Apache Spark Examples](https://github.com/apache/spark/tree/master/examples/src/main/scala/org/apache/spark/examples)
+* [Spark Scala Tutorial](https://github.com/deanwampler/spark-scala-tutorial/tree/master/notebooks)
+* [Introduction to predictive modeling in Spark with applications in pharmaceutical bioinformatics](https://github.com/mcapuccini/spark-tutorial)
 
 ----
 
