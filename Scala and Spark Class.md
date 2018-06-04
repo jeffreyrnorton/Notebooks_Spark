@@ -92,6 +92,20 @@ Scala 101 - [Free set of short video lectures](https://cognitiveclass.ai/courses
  * [5.5 Handling Futures](http://heather.miller.am/teaching/cs4240/spring2018/pdf/5-5.pdf)
  * [All Slides](http://heather.miller.am/teaching/cs4240/spring2018/pdf/scala101.pdf)
 
+# Reactive Program Design in Scala
+
+| Videos | Slides |
+| ------ | ------ |
+| [What is Reactive Programming](https://www.youtube.com/watch?v=fy_QYnoq9XQ&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN) | [Slides]() |
+| [Recap: Functions and Pattern Matching](https://www.youtube.com/watch?v=MjWe-0k0Ujc&index=2&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN) | [Slides]() |
+| [Recap: Collections](https://www.youtube.com/watch?v=jOvpuVwj8po&index=3&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN) | [Slides]() |
+| [Lecture 1.1 - Queries with For](https://www.youtube.com/watch?v=nZqHJbUsJNU&list=PLO9y7hOkmmSGJxducP4r5XB6lNx1i2Hae&index=4) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week6-4.pdf) |
+| [Lecture 1.2 - Translation of For](https://www.youtube.com/watch?v=WG58RntpggI&list=PLO9y7hOkmmSGJxducP4r5XB6lNx1i2Hae&index=5) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week6-5.pdf) |
+| [Lecture 1.3 - Functional Random Generators](https://www.youtube.com/watch?v=FOYASQx9hrg&index=4&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN) | [Slides]() |
+| [Lecture 1.4 - Monads](https://www.youtube.com/watch?v=oUr1IQPHa9M&index=5&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN) | [Slides]() |
+
+
+
 # Introduction to Spark
 
 
