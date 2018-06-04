@@ -183,8 +183,6 @@ From Heather Miller.  This is a combination of her [CS 4240 course](http://heath
 
 ## Introduction, Data Parallelism, and Scala
 
-### Slides
-
 | Videos | Slides |
 | ------ | ------ | 
 | [Introduction & Logistics](https://www.youtube.com/watch?v=UMRPXQzV_Ro) | [Intro, Why Scala, Why Spark](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-1.pdf) |
@@ -220,56 +218,26 @@ From Heather Miller.  This is a combination of her [CS 4240 course](http://heath
 
 ## Shuffling, Partitioning
 
-### Slides
-
-[Shuffling: What it is and why it’s important](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-3-1.pdf)
-
-[Partitioning](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-3-2.pdf)
-
-[Optimizing with Partitioners](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-3-3.pdf)
-
-[Wide vs Narrow Dependencies](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-3-4.pdf)
-
-### Videos
-
-[Shuffling: What it is and why it's important](https://www.youtube.com/watch?v=kbQmZiT1gnA)
-
-[Partitioning](https://www.youtube.com/watch?v=AK1khvHMUvE)
-
-[Optimizing with Partitioners](https://www.youtube.com/watch?v=y5igthFcWqk)
-
-[Wide vs Narrow Dependencies](https://www.youtube.com/watch?v=LDdA1RW_6xo)
+| Videos | Slides |
+| ------ | ------ | 
+| [Shuffling: What it is and why it's important](https://www.youtube.com/watch?v=kbQmZiT1gnA) | [Shuffling: What it is and why it’s important](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-3-1.pdf) |
+| [Partitioning](https://www.youtube.com/watch?v=AK1khvHMUvE) | [Partitioning](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-3-2.pdf) |
+| [Optimizing with Partitioners](https://www.youtube.com/watch?v=y5igthFcWqk) | [Optimizing with Partitioners](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-3-3.pdf) |
+| [Wide vs Narrow Dependencies](https://www.youtube.com/watch?v=LDdA1RW_6xo) | [Wide vs Narrow Dependencies](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-3-4.pdf) |
 
 ## SQL, Dataframes, and Datasets
 
-### Slides
-
-[Structure and Optimization](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-4-1.pdf)
-
-[Spark SQL](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-4-2.pdf)
-
-[DataFrames (1)](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-4-3.pdf)
-
-[DataFrames (2)](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-4-4.pdf)
-
-[Datasets](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-4-5.pdf)
-
-### Videos
-)
-[Structured vs Unstructured Data](https://www.youtube.com/watch?v=i-oi5OzCLJI)
-
-[Spark SQL](https://www.youtube.com/watch?v=OWCzZQMO68g)
-
-[DataFrames (1)](https://www.youtube.com/watch?v=OjQzWrnm2ss)
-
-[DataFrames (2)](https://www.youtube.com/watch?v=Ny5bYy6rks8)
-
-[Datasets](https://www.youtube.com/watch?v=9yNmTucj6HU)
+| Videos | Slides |
+| ------ | ------ | 
+| [Structured vs Unstructured Data](https://www.youtube.com/watch?v=i-oi5OzCLJI) | [Stucture and Optimization](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-4-1.pdf) |
+| [Spark SQL](https://www.youtube.com/watch?v=OWCzZQMO68g) | [Spark SQL](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-4-2.pdf) |
+| [DataFrames (1)](https://www.youtube.com/watch?v=OjQzWrnm2ss) | [DataFrames (1)](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-4-3.pdf) |
+| [DataFrames (2)](https://www.youtube.com/watch?v=Ny5bYy6rks8) | [DataFrames (2)](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-4-4.pdf) |
+| [Datasets](https://www.youtube.com/watch?v=9yNmTucj6HU) | [Datasets](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-4-5.pdf) |
 
 ### Book References
 
-[High Performance Spark - DataFrames, Datasets, and Spark SQL](https://musings-on-ai.s3.amazonaws.com/Spark/highperformancespark.pdf#page=43)
-
+[High Performance Spark - DataFrames, Datasets, and Spark SQL](https://musings-on-ai.s3.amazonaws.com/Spark/highperformancespark.pdf#page=43)  
 [Master Spark SQL](https://legacy.gitbook.com/book/jaceklaskowski/mastering-spark-sql/details)
 
 ## Other Big Data Tools, Intro to Stream Processing
