@@ -134,85 +134,50 @@ Scala 101 - [Free set of short video lectures](https://cognitiveclass.ai/courses
 * [Subscriptions](https://www.youtube.com/watch?v=TxahXwv7GMM&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN&index=30)
 * [Promises and Subjects](https://www.youtube.com/watch?v=MkBbb9xQq2E&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN&index=31)
 * [RX potpourri](https://www.youtube.com/watch?v=2ZhZbxE3vdY&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN&index=32)
-vasnake4yt
-33
+* [Observable Contract](https://www.youtube.com/watch?v=iJHFCY1Ohz8&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN&index=33)
+* [Introduction Why Actors](https://www.youtube.com/watch?v=jxByZ6bXlAQ&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN&index=34)
+* [The Actor Model](https://www.youtube.com/watch?v=SUuzzAH22AY&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN&index=35)
+* [Message Processing Semantics](https://www.youtube.com/watch?v=9DJrJl3L4eE&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN&index=36)
+* [Designing Actor Systems](https://www.youtube.com/watch?v=e637uK8-uLQ&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN&index=37)
+* [Testing Actor Systems](https://www.youtube.com/watch?v=tsDSSsY2_Rg&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN&index=38)
+* [Failure Handling with Actors](https://www.youtube.com/watch?v=SYxNTV7xEt0&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN&index=39)
+* [Lifecycle Monitoring and the Error Kernel](https://www.youtube.com/watch?v=itl_9ukdj2w&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN&index=40)
+* [Persistent Actor State](https://www.youtube.com/watch?v=QBj_N1DeRLs&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN&index=41)
+* [Actors are Distributed](https://www.youtube.com/watch?v=uAtso1ZkTDM&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN&index=42)
+* [Actors are Distributed Part II](https://www.youtube.com/watch?v=pHawtpPJx3Q&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN&index=43)
+* [Eventual Consistency](https://www.youtube.com/watch?v=WWvlDwmzKCU&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN&index=44)
+* [Actor Composition](https://www.youtube.com/watch?v=SGaAUizPrIM&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN&index=45)
+* [Scalability](https://www.youtube.com/watch?v=SrpIDwi7I1g&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN&index=46)
+* [Responsiveness](https://www.youtube.com/watch?v=ze2KpXY9NJs&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN&index=47)
 
-14:20
-6 15 Observable Contract 14 19
-vasnake4yt
-34
+# Parallel Programming
 
-14:47
-7 1 Introduction Why Actors 14 46
-vasnake4yt
-35
+* [Introduction to Parallel Computing](https://www.youtube.com/watch?v=RNVIcm8-6RE&list=PLOhKADai-veUWo2cEAJ4JfC9Ssaa9Isbl&index=1)
+* [Parallelism on the JVM I](https://www.youtube.com/watch?v=ZWJC4pgicK0&list=PLOhKADai-veUWo2cEAJ4JfC9Ssaa9Isbl&index=2)
+* [Parallelism on the JVM II](https://www.youtube.com/watch?v=BKf4X70Oozg&list=PLOhKADai-veUWo2cEAJ4JfC9Ssaa9Isbl&index=3)
+* [Running Computations in Parallel](https://www.youtube.com/watch?v=DbVt8C0-Oe0&list=PLOhKADai-veUWo2cEAJ4JfC9Ssaa9Isbl&index=4)
+* [Monte Carlo Method to Estimate Pi](https://www.youtube.com/watch?v=PLURfYr-rdU&list=PLOhKADai-veUWo2cEAJ4JfC9Ssaa9Isbl&index=5)
+* [First-Class Tasks7](https://www.youtube.com/watch?v=gE-JDdxegMc&list=PLOhKADai-veUWo2cEAJ4JfC9Ssaa9Isbl&index=6)
+* [How Fast are Parallel Programs?](ht)tps://www.youtube.com/watch?v=kF-15rJ_iPM&list=PLOhKADai-veUWo2cEAJ4JfC9Ssaa9Isbl&index=7)
+* [Benchmarking Parallel Programs](https://www.youtube.com/watch?v=AxqeZ-3jSJ4&list=PLOhKADai-veUWo2cEAJ4JfC9Ssaa9Isbl&index=8)
+* [Parallel Sorting](https://www.youtube.com/watch?v=79LsvRiSWac&list=PLOhKADai-veVs9X1yH7QEmAAtohmwbQXs&index=1)
+* [Data Operations and Parallel Mapping](https://www.youtube.com/watch?v=pZZgG81vROA&list=PLOhKADai-veVs9X1yH7QEmAAtohmwbQXs&index=2)
+* [Parallel Fold (Reduce) Operation](https://www.youtube.com/watch?v=JQxmbpyenko&list=PLOhKADai-veVs9X1yH7QEmAAtohmwbQXs&index=3)
+* [Associativity I](https://www.youtube.com/watch?v=SYNsjfiH53I&list=PLOhKADai-veVs9X1yH7QEmAAtohmwbQXs&index=4)
+* [Associativity II](https://www.youtube.com/watch?v=ggxWa9JvQvY&list=PLOhKADai-veVs9X1yH7QEmAAtohmwbQXs&index=5)
+* [Parallel Scan (Prefix Sum) Operation](https://www.youtube.com/watch?v=0XzO9H20dk0&list=PLOhKADai-veVs9X1yH7QEmAAtohmwbQXs&index=6)
+* [Data-Parallel Programming](https://www.youtube.com/watch?v=Zksc1aEiV_s&index=1&list=PLOhKADai-veVfGEHmUShjPwjbmoofbY-N)
+* [Data-Parallel Operations I](https://www.youtube.com/watch?v=Nj2gk-IA9OU&index=2&list=PLOhKADai-veVfGEHmUShjPwjbmoofbY-N)
+* [Data-Parallel Operations II](https://www.youtube.com/watch?v=lXmvqLRftZQ&index=3&list=PLOhKADai-veVfGEHmUShjPwjbmoofbY-N)
+* [Scala Parallel Collections](https://www.youtube.com/watch?v=pEltisww8BE&index=4&list=PLOhKADai-veVfGEHmUShjPwjbmoofbY-N
+* [Splitters and Combiner](https://www.youtube.com/watch?v=p50y6d6UdAk&index=5&list=PLOhKADai-veVfGEHmUShjPwjbmoofbY-N)
+* [Implementing Combiners](https://www.youtube.com/watch?v=q0DtFzMCWe8&index=1&list=PLOhKADai-veXBqCTu6IzQ6IG0Me2Fh8ju)
+* [Parallel Two-phase Construction](https://www.youtube.com/watch?v=PzHvNEs3gOw&index=2&list=PLOhKADai-veXBqCTu6IzQ6IG0Me2Fh8ju)
+* [Conc-tree Data Structure](https://www.youtube.com/watch?v=o0NR9GrcHQo&index=3&list=PLOhKADai-veXBqCTu6IzQ6IG0Me2Fh8ju)
+* [Amortized, Constant-time Append Operation](https://www.youtube.com/watch?v=JgX3EZB7Zgs&index=4&list=PLOhKADai-veXBqCTu6IzQ6IG0Me2Fh8ju)
+* [Conc-Tree Combiners](https://www.youtube.com/watch?v=CumM8JCbmDo&index=5&list=PLOhKADai-veXBqCTu6IzQ6IG0Me2Fh8ju)
 
-13:44
-7 2 The Actor Model 13 43
-vasnake4yt
-36
-
-27:29
-7 3 Message Processing Semantics 27 28
-vasnake4yt
-37
-
-38:11
-7 5 Designing Actor Systems 38 10
-vasnake4yt
-38
-
-17:17
-7 6 Testing Actor Systems 17 16
-vasnake4yt
-39
-
-22:39
-8 1 Failure Handling with Actors 22 38
-vasnake4yt
-40
-
-24:08
-8 2 Lifecycle Monitoring and the Error Kernel 24 07
-vasnake4yt
-41
-
-40:06
-8 5 Persistent Actor State 40 05
-vasnake4yt
-42
-
-36:31
-9 1 Actors are Distributed 36 30
-vasnake4yt
-43
-
-18:18
-9 2 Actors are Distributed Part II 18 17 — optional
-vasnake4yt
-44
-
-15:50
-9 3 Eventual Consistency 15 49
-vasnake4yt
-45
-
-20:15
-9 4 Actor Composition 20 14
-vasnake4yt
-46
-
-17:01
-9 5 Scalability 17 00
-vasnake4yt
-47
-
-11:42
-9 7 Responsiveness 11 41
-vasnake4yt
-
-
-# Introduction to Spark
+# Big Data Analysis with Spark and Scala
 
 From Heather Miller.  This is a combination of her [CS 4240 course](http://heather.miller.am/teaching/cs4240/spring2018/#resources) at Northeastern University and the Coursera course.
 
