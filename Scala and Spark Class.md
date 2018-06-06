@@ -17,30 +17,33 @@
 | [Course Introduction](https://www.youtube.com/watch?v=iegaxBgBCEs&index=2&list=PLO9y7hOkmmSHHvFXfpJ-F8e9e1TtWUNox&t=0s) |  |  |
 | [Tools Setup for Linux](https://www.youtube.com/watch?v=TdH_dv9wrcE&list=PLO9y7hOkmmSHHvFXfpJ-F8e9e1TtWUNox&index=2) |  |  |
 | [Tools Setup for Windows](https://www.youtube.com/watch?v=0sAGWTqgJCI&list=PLO9y7hOkmmSHHvFXfpJ-F8e9e1TtWUNox&index=4) |   |  |
-[Lecture 1.1 - Programming Paradigms](https://www.youtube.com/watch?v=DN6YqrI8aLk) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week1-1.pdf) |  |
-| [Lecture 1.2 - Elements of Programming](https://www.youtube.com/watch?v=ev5N7rzcwW8&list=PLO9y7hOkmmSEAtkvo_lQdIK8SfhO6x78Q&index=2) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week1-2.pdf)  | |
-| [Lecture 1.3 - Evaluation Strategies and Termination](https://www.youtube.com/watch?v=EWEFPR7uI6c&list=PLO9y7hOkmmSEAtkvo_lQdIK8SfhO6x78Q&index=3) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week1-3.pdf) | |
-| [Lecture 1.4 - Conditionals and Value Definitions](https://www.youtube.com/watch?v=su1nR4op46I&index=4&list=PLO9y7hOkmmSEAtkvo_lQdIK8SfhO6x78Q) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week1-4.pdf) | |
+| [Lecture 1.1 - Programming Paradigms](https://www.youtube.com/watch?v=DN6YqrI8aLk) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week1-1.pdf) | |
+| [Lecture 1.2 - Elements of Programming](https://www.youtube.com/watch?v=ev5N7rzcwW8&list=PLO9y7hOkmmSEAtkvo_lQdIK8SfhO6x78Q&index=2) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week1-2.pdf) | [Terms and Types](https://www.scala-exercises.org/scala_tutorial/terms_and_types) |
+| [Lecture 1.3 - Evaluation Strategies and Termination](https://www.youtube.com/watch?v=EWEFPR7uI6c&list=PLO9y7hOkmmSEAtkvo_lQdIK8SfhO6x78Q&index=3) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week1-3.pdf) | [Definitions and Evaluation](https://www.scala-exercises.org/scala_tutorial/definitions_and_evaluation) |
+| [Lecture 1.4 - Conditionals and Value Definitions](https://www.youtube.com/watch?v=su1nR4op46I&index=4&list=PLO9y7hOkmmSEAtkvo_lQdIK8SfhO6x78Q) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week1-4.pdf) | [Functional Loops](https://www.scala-exercises.org/scala_tutorial/functional_loops) |
 | [Lecture 1.5 - Example: square roots with Newton's method](https://www.youtube.com/watch?v=FM4I8hU5kqk&index=5&list=PLO9y7hOkmmSEAtkvo_lQdIK8SfhO6x78Q) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week1-5.pdf) | |
 | [Lecture 1.6 - Blocks and Lexical Scope](https://www.youtube.com/watch?v=RlefE2isw9s&list=PLO9y7hOkmmSEAtkvo_lQdIK8SfhO6x78Q&index=6) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week1-6.pdf) | [Lexical Scopes](https://www.scala-exercises.org/scala_tutorial/lexical_scopes) |
 | [Lecture 1.7 - Tail Recursion](https://www.youtube.com/watch?v=xhT6c9dM1Ds&index=7&list=PLO9y7hOkmmSEAtkvo_lQdIK8SfhO6x78Q) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week2-1.pdf)  | [Tail Recursion](https://www.scala-exercises.org/scala_tutorial/tail_recursion) |
-| [Lecture 2.1 - Higher-Order Functions](https://www.youtube.com/watch?v=fhbA1ZDtPiA&list=PLO9y7hOkmmSFAxC3SJi0c5UHSotBVHyar) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week2-2.pdf) |  |
+| | | [Structuring Information](https://www.scala-exercises.org/scala_tutorial/structuring_information) |
+| [Lecture 2.1 - Higher-Order Functions](https://www.youtube.com/watch?v=fhbA1ZDtPiA&list=PLO9y7hOkmmSFAxC3SJi0c5UHSotBVHyar) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week2-2.pdf) | [HIgher Order Functions](https://www.scala-exercises.org/scala_tutorial/higher_order_functions) |
+| | | [Syntactic Conveniences](https://www.scala-exercises.org/scala_tutorial/syntactic_conveniences) |
 | [Lecture 2.2 - Currying](https://www.youtube.com/watch?v=IAchwrL4f9s&list=PLO9y7hOkmmSFAxC3SJi0c5UHSotBVHyar&index=2) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week2-3.pdf) |  |
 | [Lecture 2.3 - Example: Finding Fixed Points](https://www.youtube.com/watch?v=p9vDUaxhOrI&list=PLO9y7hOkmmSFAxC3SJi0c5UHSotBVHyar&index=3) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week2-4.pdf) |  |
 | [Lecture 2.4 - Scala Syntax Summary](https://www.youtube.com/watch?v=T0GoJ22Y2-E&list=PLO9y7hOkmmSFAxC3SJi0c5UHSotBVHyar&index=4) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week2-5.pdf) |  |
 | [Lecture 2.5 - Functions and Data](https://www.youtube.com/watch?v=ASNudJQPO28&list=PLO9y7hOkmmSFAxC3SJi0c5UHSotBVHyar&index=5) |  [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week3-1.pdf) |  |
 | [Lecture 2.6 - More Fun With Rationals](https://www.youtube.com/watch?v=mSRgSbOx8Ns&list=PLO9y7hOkmmSFAxC3SJi0c5UHSotBVHyar&index=6) |  [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week3-2.pdf) | |
 | [Lecture 2.7 - Evaluation and Operators](https://www.youtube.com/watch?v=Aai5f5RBq98&list=PLO9y7hOkmmSFAxC3SJi0c5UHSotBVHyar&index=7) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week3-3.pdf) |  |
-| [Lecture 3.1 - Class Hierarchies](https://www.youtube.com/watch?v=jX7Kw1Yb_q8&list=PLO9y7hOkmmSH5LnOb4ZtsvvCl1HDI2D-v) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week3-4.pdf) |  |
-| [Lecture 3.2 - How Classes Are Organized](https://www.youtube.com/watch?v=JjiToRSK9mE&list=PLO9y7hOkmmSH5LnOb4ZtsvvCl1HDI2D-v&index=2) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week3-5.pdf) |  |
-| [Lecture 3.3 - Polymorphism](https://www.youtube.com/watch?v=3aTe-6De0Pg&list=PLO9y7hOkmmSH5LnOb4ZtsvvCl1HDI2D-v&index=3) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week4-1.pdf) |  |
+| [Lecture 3.1 - Class Hierarchies](https://www.youtube.com/watch?v=jX7Kw1Yb_q8&list=PLO9y7hOkmmSH5LnOb4ZtsvvCl1HDI2D-v) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week3-4.pdf) | [Object-Oriented Programming](https://www.scala-exercises.org/scala_tutorial/object_oriented_programming) |
+| | | [Imperative Programming](https://www.scala-exercises.org/scala_tutorial/imperative_programming) |
+| [Lecture 3.2 - How Classes Are Organized](https://www.youtube.com/watch?v=JjiToRSK9mE&list=PLO9y7hOkmmSH5LnOb4ZtsvvCl1HDI2D-v&index=2) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week3-5.pdf) | [Classes vs Case Classes](https://www.scala-exercises.org/scala_tutorial/classes_vs_case_classes) |
+| [Lecture 3.3 - Polymorphism](https://www.youtube.com/watch?v=3aTe-6De0Pg&list=PLO9y7hOkmmSH5LnOb4ZtsvvCl1HDI2D-v&index=3) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week4-1.pdf) | [Polymorphic Types](https://www.scala-exercises.org/scala_tutorial/polymorphic_types) |
 | [Lecture 4.1 - Objects Everywhere](https://www.youtube.com/watch?v=Uu9BaV6sKPQ&index=2&list=PLO9y7hOkmmSEmDcxBXvIDp-1b5EIC5Ed5) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week4-2.pdf) |  |
 | [Lecture 4.2 - Functions as Objects](https://www.youtube.com/watch?v=LV000GXzRks&list=PLO9y7hOkmmSEmDcxBXvIDp-1b5EIC5Ed5) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week4-3.pdf) |  |
 | [Lecture 4.3 - Subtyping and Generics](https://www.youtube.com/watch?v=hgQqr-pA-c4&index=3&list=PLO9y7hOkmmSEmDcxBXvIDp-1b5EIC5Ed5) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week4-4.pdf) |  |
 | [Lecture 4.4 - Variance (Optional)](https://www.youtube.com/watch?v=pgCD10nu_30&index=4&list=PLO9y7hOkmmSEmDcxBXvIDp-1b5EIC5Ed5) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week4-5.pdf) |  |
 | [Lecture 4.5 - Decomposition](https://www.youtube.com/watch?v=L3JTggvJZt4&index=5&list=PLO9y7hOkmmSEmDcxBXvIDp-1b5EIC5Ed5) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week4-6.pdf) |  |
 | [Lecture 4.6 - Pattern Matching](https://www.youtube.com/watch?v=S60PiAw-Tg4&index=6&list=PLO9y7hOkmmSEmDcxBXvIDp-1b5EIC5Ed5) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week4-7.pdf) |  |
-| [Lecture 4.7 - Lists](https://www.youtube.com/watch?v=6SMuO28__mQ&index=7&list=PLO9y7hOkmmSEmDcxBXvIDp-1b5EIC5Ed5) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week5-1.pdf) |  |
+| [Lecture 4.7 - Lists](https://www.youtube.com/watch?v=6SMuO28__mQ&index=7&list=PLO9y7hOkmmSEmDcxBXvIDp-1b5EIC5Ed5) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week5-1.pdf) | [Standard Library](https://www.scala-exercises.org/scala_tutorial/standard_library) |
 | [Lecture 5.1 - More Functions on Lists](https://www.youtube.com/watch?v=U23j6yH21W4&index=1&list=PLO9y7hOkmmSFONdwXCEfZdS6CagKCOmlT) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week5-2.pdf) |  |
 | [Lecture 5.2 - Pairs and Tuples](https://www.youtube.com/watch?v=IFg7E81WQMA&index=2&list=PLO9y7hOkmmSFONdwXCEfZdS6CagKCOmlT) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week5-3.pdf) |  |
 | [Lecture 5.3 - Implicit Parameters](https://www.youtube.com/watch?v=6TYhv4CktNk&index=3&list=PLO9y7hOkmmSFONdwXCEfZdS6CagKCOmlT) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week5-4.pdf) |  |
@@ -60,7 +63,7 @@
 | [Lazy Evaluation](https://www.youtube.com/watch?v=-8inzxqT-No&list=PLO9y7hOkmmSHz-a9tj_HvCM2KDB6MTYI5&index=3) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week7-3.pdf) |  |
 | [Computing with Infinite Sequences](https://www.youtube.com/watch?v=V4hbxp-3Ldo&list=PLO9y7hOkmmSHz-a9tj_HvCM2KDB6MTYI5&index=4) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week7-4.pdf) |  |
 | [Case Study: The Water Pouring Problem](https://www.youtube.com/watch?v=gjTDp4-UBsY&list=PLO9y7hOkmmSHz-a9tj_HvCM2KDB6MTYI5&index=5) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week7-5.pdf) |  |
-| [Course Conclusion](https://www.youtube.com/watch?v=gjTDp4-UBsY&list=PLO9y7hOkmmSHz-a9tj_HvCM2KDB6MTYI5&index=5) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week7-6.pdf)   |
+| [Course Conclusion](https://www.youtube.com/watch?v=gjTDp4-UBsY&list=PLO9y7hOkmmSHz-a9tj_HvCM2KDB6MTYI5&index=5) | [Slides](https://github.com/afonsograca/Functional-Programming-Principles-in-Scala/blob/master/Slides/week7-6.pdf)   ||
 
 ### Introduction to Scala
 
@@ -184,7 +187,7 @@ From Heather Miller.  This is a combination of her [CS 4240 course](http://heath
 ## Introduction, Data Parallelism, and Scala
 
 | Videos | Slides |
-| ------ | ------ | 
+| ------ | ------ |
 | [Introduction & Logistics](https://www.youtube.com/watch?v=UMRPXQzV_Ro) | [Intro, Why Scala, Why Spark](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-1.pdf) |
 | [Data-Parallel to Distributed Data-Parallel](https://www.youtube.com/watch?v=V4hj6LZnvAE) | [Data-Parallel to Distributed Data-Parallel](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-2.pdf) |
 | [Latency](https://www.youtube.com/watch?v=DXq5MOYGK1U) | [Latency](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-1-3.pdf) |
@@ -205,7 +208,7 @@ From Heather Miller.  This is a combination of her [CS 4240 course](http://heath
 ## Key-Value Pairs and Joins
 
 | Videos | Slides |
-| ------ | ------ | 
+| ------ | ------ |
 | [Pair RDDs](https://www.youtube.com/watch?v=ei-dhfYHl9M) | [Distributed Key-Value Pairs (Pair RDDs)](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-2-2.pdf) |
 | [Transformations and Actions on Pair RDDs](https://www.youtube.com/watch?v=vCg3QcvHfWk) | [Transformations and Actions on Pair RDDs](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-2-3.pdf) |
 | [Joins](https://www.youtube.com/watch?v=47gtEOQzaJk) | [Joins](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-2-4.pdf) |
@@ -219,7 +222,7 @@ From Heather Miller.  This is a combination of her [CS 4240 course](http://heath
 ## Shuffling, Partitioning
 
 | Videos | Slides |
-| ------ | ------ | 
+| ------ | ------ |
 | [Shuffling: What it is and why it's important](https://www.youtube.com/watch?v=kbQmZiT1gnA) | [Shuffling: What it is and why it’s important](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-3-1.pdf) |
 | [Partitioning](https://www.youtube.com/watch?v=AK1khvHMUvE) | [Partitioning](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-3-2.pdf) |
 | [Optimizing with Partitioners](https://www.youtube.com/watch?v=y5igthFcWqk) | [Optimizing with Partitioners](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-3-3.pdf) |
@@ -228,7 +231,7 @@ From Heather Miller.  This is a combination of her [CS 4240 course](http://heath
 ## SQL, Dataframes, and Datasets
 
 | Videos | Slides |
-| ------ | ------ | 
+| ------ | ------ |
 | [Structured vs Unstructured Data](https://www.youtube.com/watch?v=i-oi5OzCLJI) | [Stucture and Optimization](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-4-1.pdf) |
 | [Spark SQL](https://www.youtube.com/watch?v=OWCzZQMO68g) | [Spark SQL](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-4-2.pdf) |
 | [DataFrames (1)](https://www.youtube.com/watch?v=OjQzWrnm2ss) | [DataFrames (1)](http://heather.miller.am/teaching/cs4240/spring2018/pdf/spark-4-3.pdf) |
@@ -317,6 +320,5 @@ From Heather Miller.  This is a combination of her [CS 4240 course](http://heath
 * [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)
 * [Keras Resources](https://github.com/fchollet/keras-resources)
 * [Time Series Prediction: A Non Linear Approach with Neural Networks](https://github.com/maxpumperla/neuralforecast)
-
 
 
